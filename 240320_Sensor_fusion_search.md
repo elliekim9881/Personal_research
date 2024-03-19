@@ -4,7 +4,7 @@
 
 - 각각의 개별 센서들의 데이터는 강점과 약점을 모두 지니고 있기 때문에 각각 개별 센서데이터의 장점을 활용, 불확실성을 줄이고 정확한 모델을 얻고자 한다.
 
-![Untitled](Sensor%20fusion%208a15373343114bcfadc7513ff9e7e0d9/Untitled.png)
+![Untitled](Personal_research\sensor_fusion\Untitled.png)
 
 ## 1980’s
 
@@ -42,7 +42,7 @@
     
     피드백 제어를 통하여 추정.
     
-    ![Untitled](Sensor%20fusion%208a15373343114bcfadc7513ff9e7e0d9/Untitled%201.png)
+    ![Untitled](Personal_research\sensor_fusion\Untitled1.png)
     
     시간 업데이트 방정식 & 측정 업데이트 방정식
     
@@ -58,17 +58,17 @@
 
 - **Extended Kalman Filter, EKF : 선형이 아닌 센서데이터 선형화를 위한 접근방식. (비선형 시스템에 칼만 필터를 적용하기 위함)**
 
-![Untitled](Sensor%20fusion%208a15373343114bcfadc7513ff9e7e0d9/Untitled%202.png)
+![Untitled](Personal_research\sensor_fusion\Untitled2.png)
 
 미분을 통해 비선형 모델을 선형화(jacobian matrix) > 칼만 필터 계산 
 
 - **Unscented Kalman Filter, UFK : 선형화 과정 생략, 샘플링을 통한 근사화**
 
-![Untitled](Sensor%20fusion%208a15373343114bcfadc7513ff9e7e0d9/Untitled%203.png)
+![Untitled](Personal_research\sensor_fusion\Untitled3.png)
 
 - **Particle Filter : 비선형 필터, 파티클로 시스템의 확률 분포와 상태를 모두 표현.**
 
-![Untitled](Sensor%20fusion%208a15373343114bcfadc7513ff9e7e0d9/Untitled%204.png)
+![Untitled](Personal_research\sensor_fusion\Untitled4.png)
 
 ## 2000~
 
