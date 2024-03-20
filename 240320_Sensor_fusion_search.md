@@ -16,7 +16,7 @@
 - 여러 센서에서 수집된 데이터의 시간적 정렬을 맞추는 문제에 대한 연구
 - 컴퓨팅 자원 제한, **실시간 데이터 처리**(데이터 처리 속도)에 대한 연구
 
-**[An introduction to multisensor data fusion**  Hall, David L and Llinas, James 1997 IEEE](https://ieeexplore.ieee.org/abstract/document/554205)
+[An introduction to multisensor data fusion**  Hall, David L and Llinas, James 1997 IEEE](https://ieeexplore.ieee.org/abstract/document/554205)
 
 - 센서퓨전 기본 개념 및 과제, 응용 분야에서의 중요성 제시
 - 표적 인식, 전장 감시(군사), 자율 주행 차량 유도, 제어(자율 주행), 모니터링, 의료 진단 분야로의 응용 제시
@@ -36,7 +36,7 @@
 
 - **Kalman Filter**
 
-**[A New Approach to Linear Filtering and Prediction Problems R. E. Kalman 1960](https://asmedigitalcollection.asme.org/fluidsengineering/article-abstract/82/1/35/397706/A-New-Approach-to-Linear-Filtering-and-Prediction)**
+[A New Approach to Linear Filtering and Prediction Problems R. E. Kalman 1960](https://asmedigitalcollection.asme.org/fluidsengineering/article-abstract/82/1/35/397706/A-New-Approach-to-Linear-Filtering-and-Prediction)
 
 - [**An introduction to the Kalman filter. Welch, Greg, and Gary Bishop 1995**](https://perso.crans.org/club-krobot/doc/kalman.pdf)
     
@@ -82,13 +82,13 @@
 
 **[Multi-Sensor Fusion in Automated Driving: A Survey Wang, Zhangjing, Yu Wu, and Qingqing Niu 2019 *Ieee Access*](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8943388)**
 
-**[Sensor and Sensor Fusion Technology in Autonomous Vehicles: A Review Yeong, De Jong, et al 2021](https://www.mdpi.com/1424-8220/21/6/2140)**
+**[Sensor and Sensor Fusion Technology in Autonomous Vehicles: A Review Yeong, De Jong, et al 2021](https://www.mdpi.com/1424-8220/21/6/2140)**<br>
 자율 주행 자동차 : 레이더, 카메라, 라이다(LIDAR), 울트라소닉 센서 등 다양한 센서의 데이터를 통합하여 주변 환경을 정확하게 인식하고, 안전한 운전 결정 내릴 수 있도록 함. > 현재 보급된 반자율
 
-**[A survey of data fusion in smart city applications Lau, Billy Pik Lik, et al 2019**  *Information Fusion* 52](https://www.sciencedirect.com/science/article/abs/pii/S1566253519300326)
+**[A survey of data fusion in smart city applications Lau, Billy Pik Lik, et al 2019  Information Fusion 52](https://www.sciencedirect.com/science/article/abs/pii/S1566253519300326)**<br>
 스마트 시티 구현 :  교통 관리, 안전 모니터링, 에너지 관리(도시 운영 효율 상승)
 
-**[Data fusion and multiple classifier systems for human activity detection and health monitoring: Review and open research directions Nweke, Henry Friday, et al 2019**  *Information Fusion* 46](https://www.sciencedirect.com/science/article/abs/pii/S1566253518304135)
+**[Data fusion and multiple classifier systems for human activity detection and health monitoring: Review and open research directions Nweke, Henry Friday, et al 2019 Information Fusion 46](https://www.sciencedirect.com/science/article/abs/pii/S1566253518304135)**<br>
 
 의료 : 웨어러블 장치와 의료 모니터링 장비에서 수집된 다양한 생체 신호를 통합, 건강상태 실시간 모니터링
 
