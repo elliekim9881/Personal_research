@@ -29,8 +29,8 @@
 
 -  intel 로 교체 후 맥 virtualbox & ubuntu 설치<br>
  result. success <br>
- ![(Personal_research\sensor_fusion\realsense_01.jpeg)](https://github.com/elliekim9881/Personal_research/blob/main/sensor_fusion/Untitled.png)
+ ![(Personal_research\sensor_fusion\realsense_01.jpeg)](https://github.com/elliekim9881/Personal_research/blob/main/sensor_fusion/realsense_01.jpeg)
     - problem<br>
     virtualbox ubuntu 에서 기기 인식 불가<br>
     = sudo virtualbox 실행. 인식 성공.<br>
-    ![(Personal_research\sensor_fusion\realsense_02.jpeg)](https://github.com/elliekim9881/Personal_research/blob/main/sensor_fusion/Untitled.png)
+    ![(Personal_research\sensor_fusion\realsense_02.jpeg)](https://github.com/elliekim9881/Personal_research/blob/main/sensor_fusion/realsense_02.jpeg)
